@@ -2,7 +2,7 @@
     "name": "translatorApp",
     "version": "0.1.0",
     "private": true,
-    "homepage": "https://vavoulas.github.io/translatorApp/",
+    "homepage": "https://vavoulas.github.io/metafrasi/",
     "scripts": {
         "serve": "vue-cli-service serve",
         "build": "vue-cli-service build",
