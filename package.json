@@ -1,8 +1,8 @@
 {
     "name": "translatorApp",
     "version": "0.1.0",
-    "private": true,
-    "homepage": "https://vavoulas.github.io/translatorApp/",
+    "private": false,
+    "homepage": "https://vavoulas.github.io/translatorApp",
     "scripts": {
         "serve": "vue-cli-service serve",
         "build": "vue-cli-service build",
