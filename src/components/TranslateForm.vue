@@ -15,7 +15,7 @@
         <option value="sv">Σουηδικά</option>
       </select>
       <br>
-      <input type="submit" class="btn btn-success" value="Μετέφρασε">
+      <input type="submit" class="btn btn-success center-block" value="Μετέφρασε">
     </form>
   </div>
 </template>
@@ -49,6 +49,7 @@ export default {
 <style>
   #translateForm{
     border-radius: 10px;
+    text-align: center;
     
   }
 </style>

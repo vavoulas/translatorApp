@@ -39,9 +39,9 @@ export default {
   
   
   margin: 0 auto;
-  text-align: center;
-  color: #1a2129;
+  
+  color: #3c0e87;
   margin-top: 80px;
-  max-width: 280px;
+  max-width:300px;
 }
 </style>
